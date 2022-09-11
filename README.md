@@ -3,7 +3,7 @@
 #### I'm a Frontend developer and freelancer
 ![I'm a Frontend developer and freelancer](https://pbs.twimg.com/profile_banners/1359190415539380227/1657542567/1080x360)
 
-I'm Abdurrahman from Nigeria, I'm a Frontend web developer. I code HTML, CSS , SASS, JavaScript and React. I tweet mainly on programming related stuff and programming memes.
+I'm Abdurrahman from Nigeria, I'm a Frontend. I engage mainly on programming related stuff and programming memes.
 
 Skills:  REACT / JS / SASS/HTML / CSS
 
