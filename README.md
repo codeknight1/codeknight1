@@ -1,13 +1,3 @@
-### Hi there 👋
-
-
-I'm Abdurrahman from Nigeria,I'm a Frontend web developer and a freelancer. I code HTML, CSS , SASS, JavaScript and React. I tweet mainly on programming related stuff and programming memes.
-
-Skills:  REACT / JS / SASS/HTML / CSS
-
-- 🔭 I’m currently working on Community website 
-- 🌱 I’m currently learning React js 
-
 
 ### Hi there 👋, I'm Abdurrahman
 #### I'm a Frontend developer and freelancer
