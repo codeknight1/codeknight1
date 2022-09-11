@@ -3,8 +3,6 @@ I'm Abdurrahman from Nigeria, I'm a Frontend web developer. I code HTML, CSS , S
 You can checkout my twitter twitter.com/codeknight0
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeknight1)](https://github.com/codeknight1/github-readme-stats)
-
 ### Hi there 👋, I'm Abdurrahman
 #### I'm a Frontend developer and freelancer
 ![I'm a Frontend developer and freelancer](https://pbs.twimg.com/profile_banners/1359190415539380227/1657542567/1080x360)
