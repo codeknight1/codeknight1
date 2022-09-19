@@ -5,9 +5,8 @@
 
 I'm Abdurrahman from Nigeria, I'm a Frontend web developer. I engage mainly on programming and Tech related stuff and programming memes and I'm looking forward to collaborate with you all..
 
-### Skills
-* ⚛️ REACT 
-* 💻JS SASS HTML CSS
+### Stack
+* ⚛️ REACT
 ### Status
 - 🔭 I’m currently working on Community website 
 - 🌱 I’m currently learning React js 
