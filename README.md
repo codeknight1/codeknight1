@@ -1,4 +1,5 @@
-## Hi there, 👋 I'm Abdurrahman from Nigeria, I'm a Frontend web developer and a freelancer. I engage mainly on programming and Tech related stuff and programming memes and I'm looking forward to collaborating with you all..
+# Hi there 👋, I'm Abdurrahman from Nigeria, I'm a Frontend web developer and a freelancer. I engage mainly on programming and Tech related stuff and programming memes and I'm looking forward to collaborating with you all..
+<img src="codeknight.png" alt="twitter header">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Codeknight#9857) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/U/codeknight1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Dev-Ray) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Codeknight1) 
 
