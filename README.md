@@ -10,6 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Codeknight1&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeknight1&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![@codeknight's Holopin board](https://holopin.io/api/user/board?user=codeknight)](https://holopin.io/@codeknight)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Codeknight1&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
