@@ -1,5 +1,5 @@
 # Hi there 👋, I'm othman Abdurrahman Web Dev by day, Open Source enthusiast by night. I'm dedicated to creating opportunities for Nigerian devs and building a supportive community. Join me on this journey to elevate tech in Nigeria!"
-![Twitter header](codeknight.png)
+![Twitter header](1.jpg)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Codeknight#9857) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/U/codeknight1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Dev-Ray) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Codeknight0)
 
