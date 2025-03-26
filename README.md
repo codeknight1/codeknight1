@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=web&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/uthman-abdurrahman-970210221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:codeknightdojo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
