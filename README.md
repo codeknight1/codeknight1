@@ -1,30 +1,70 @@
-# Hi there 👋, I'm othman Abdurrahman Web Dev by day, Open Source enthusiast by night. I'm dedicated to creating opportunities for Nigerian devs and building a supportive community. Join me on this journey to elevate tech in Nigeria!"
-![Twitter header](1.jpg)
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Codeknight#9857) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/U/codeknight1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Dev-Ray) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Codeknight0)
+<!-- GitHub Profile Header -->
+<h1 align="center">Hi 👋, I'm Abdurrahman Uthman "Codeknight"</h1>
+<h3 align="center">A passionate developer who loves coding</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Codeknight1&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Codeknight1&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeknight1&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![@codeknight's Holopin board](https://holopin.io/api/user/board?user=codeknight)](https://holopin.io/@codeknight)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Codeknight1&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?style=for-the-badge&logo=web&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/uthman-abdurrahman-970210221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Codeknight1&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 Buy me a coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/Codeknight) 
+## 🚀 **About Me**
+- 💻 I’m a **[Your Role, e.g., Full Stack Developer]** with expertise in **JavaScript, React, and Node.js**.  
+- 🎯 Currently learning **TypeScript & Next.js**.  
+- 🌍 Passionate about **Open Source & Web Development**.  
+- ⚡ Fun Fact: **I love building side projects and contributing to the dev community!**  
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+---
+
+## 🛠 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 📂 **Top Projects**
+### 🔹 **[Project 1 Name](https://github.com/yourusername/project1)**
+A short description of your project.
+- 🚀 Tech Stack: **React, Node.js, MongoDB**
+- ⭐ GitHub Stars: **[![GitHub stars](https://img.shields.io/github/stars/yourusername/project1.svg?style=social)](https://github.com/yourusername/project1/stargazers)**  
+
+### 🔹 **[Project 2 Name](https://github.com/yourusername/project2)**
+A short description of your project.
+- 🚀 Tech Stack: **Next.js, TypeScript, Tailwind CSS**
+- ⭐ GitHub Stars: **[![GitHub stars](https://img.shields.io/github/stars/yourusername/project2.svg?style=social)](https://github.com/yourusername/project2/stargazers)**  
+
+---
+
+## 🤝 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+---
+
+### 🔥 **Random Dev Quote**
+> *"First, solve the problem. Then, write the code."* - John Johnson  
+
+---
+
+### 🎵 **Now Playing**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+
+---
+
+⭐ **Like my work?** Show some support by [starring my repositories](https://github.com/yourusername?tab=repositories)! ⭐
