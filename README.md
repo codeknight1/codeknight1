@@ -1,5 +1,12 @@
 <!-- GitHub Profile Header -->
-<h1 align="center">Hi 👋, I'm Abdurrahman Uthman "Codeknight"</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#ff6600;">Abdurrahman Uthman "Codeknight"</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;JavaScript+|+React+|+Next.js;Passionate+about+Open+Source;Always+Learning+New+Tech!" />
+</p>
+
 <h3 align="center">web developer, open-source advocate, and startup builder</h3>
 
 <!-- Social Links -->
