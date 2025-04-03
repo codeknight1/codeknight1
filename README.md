@@ -43,7 +43,7 @@
 
 ---
 
-## 📂 **Top Projects**
+<!-- ## 📂 **Top Projects**
 ### 🔹 **[Project 1 Name](https://github.com/yourusername/project1)**
 A short description of your project.
 - 🚀 Tech Stack: **React, Node.js, MongoDB**
@@ -52,7 +52,7 @@ A short description of your project.
 ### 🔹 **[Project 2 Name](https://github.com/yourusername/project2)**
 A short description of your project.
 - 🚀 Tech Stack: **Next.js, TypeScript, Tailwind CSS**
-- ⭐ GitHub Stars: **[![GitHub stars](https://img.shields.io/github/stars/yourusername/project2.svg?style=social)](https://github.com/yourusername/project2/stargazers)**  
+- ⭐ GitHub Stars: **[![GitHub stars](https://img.shields.io/github/stars/yourusername/project2.svg?style=social)](https://github.com/yourusername/project2/stargazers)**  -->
 
 ---
 
