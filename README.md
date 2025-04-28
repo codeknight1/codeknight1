@@ -37,9 +37,13 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeknight1&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeknight1&theme=radical&hide_border=true" width="49%" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codeknight1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeknight1&theme=tokyonight&hide_border=true" width="49%" />
 </p>
+
 
 ---
 
